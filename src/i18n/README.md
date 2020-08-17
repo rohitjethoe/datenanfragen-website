@@ -14,4 +14,4 @@
 * Add the domain to `content/*/verein/_index.md`
 * Translate the 404 page.
 * Setup the necessary redirects in `_redirects`.
-* Add the domain in the Netlify control panel and set the appropriate DNS records.
+* Add the domain in dattel (see `infrastructure` on how to do that) and set the appropriate DNS records.
